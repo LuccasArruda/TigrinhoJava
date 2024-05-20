@@ -9,6 +9,7 @@ public class Main {
 		Partida p2 = new Partida("Teste");
 		p2.randomizaTabuleiroEspelho();
 		p2.mostraTabuleiroEspelho();
+		System.out.println("aaaaaaaa");
 	}
 
 }
